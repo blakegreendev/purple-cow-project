@@ -119,9 +119,9 @@ Resonse
   }
 }
 ```
-- Similar to the previous step, get item by ID by entering ID parameter from previous response (i.e. 4).
-- Update by ID
-- Delete by ID
+- Read by ID or all.
+- Update by ID.
+- Delete by ID.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
