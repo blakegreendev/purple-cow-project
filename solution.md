@@ -93,11 +93,11 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/blakegreendev/purple_cow_project.git
    ```
-2. Build Docker Image
+2. Build and run Docker containers for api and db:
    ```sh
    docker-compose up
    ```
-
+- **NOTE**: To change the the default port 3000, update the *docker-compose.yml* and *Dockerfile* with the desired port. Rerun step 2. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ Resonse
 
 - [ ] Testing
 - [ ] Authentication
-- [ ] 
+- [ ] CI/CD
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

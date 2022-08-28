@@ -10,6 +10,8 @@ uvicorn = "*"
 psycopg2-binary = "*"
 psycopg2 = "*"
 sqlalchemy = "*"
+pytest = "*"
+requests = "*"
 
 [dev-packages]
 
